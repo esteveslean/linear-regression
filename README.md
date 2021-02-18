@@ -1,2 +1,1 @@
-# python-linear-regression
-testing linear regression with sklearn
+# python-machine-learning
