@@ -1,6 +1,6 @@
 import pandas as pd
 
-uri_filmes = 'https://raw.githubusercontent.com/oyurimatheus/clusterirng/master/movies/movies.csv'
+uri_filmes = 'movies.csv'
 
 filmes = pd.read_csv(uri_filmes)
 
